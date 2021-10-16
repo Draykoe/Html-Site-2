@@ -1,0 +1,25 @@
+.Titulo{
+    text-align: center;
+    font-size: 50px;
+    color: yellow;
+}
+body{background-color: green;}
+
+
+.logo{
+    
+    size: width 200px;
+    height: 200px;
+    margin-left: 700px;
+
+
+}
+
+.Texto{
+    text-align: center;
+    font-size: 25px;
+    color: yellow;
+}
+.video{
+    margin-left: 400px;
+}

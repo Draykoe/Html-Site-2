@@ -1,0 +1,199 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    background-color: #efca08;
+    width: 1920px;
+    height: 1080px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+nav{
+    background-color: #f08700;
+    margin-top: 10px;
+    width: 1920x;
+    height: 50px;
+}
+
+aside{
+    background-color: #f49f0a;
+    width: 1900px;
+    margin-top: 10px;
+    height: 500px;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: #efca08;
+    width: 1900px;
+    height: 60px;
+    clear: both;
+}
+
+
+
+.logo{
+    width: 200px;
+}
+
+.logoinf{
+    width: 200px;
+    position: absolute;
+}
+
+.Menu{
+    font-family: fantasy;
+    font-size: x-large;
+    position: absolute;
+    color: black;
+    margin-left: 20px;
+    
+}
+
+.Localizações{
+    font-family: fantasy;
+    font-size: x-large;
+    left: 300px;
+    position: absolute;
+    color: black;
+}
+
+.Ofertas{
+    font-family: fantasy;
+    font-size: x-large;
+    left: 600px;
+    position: absolute;
+    color: black;
+
+}
+
+.Hospedagens{
+    font-family: fantasy;
+    font-size: x-large;
+    left: 800px;
+    position: absolute;
+    color: black;
+
+}
+
+
+.Contato{
+    font-family: fantasy;
+    font-size: x-large;
+    position: absolute;
+    left: 1700px;
+    color: black;
+    size: 100px;
+}
+
+.Ingressos{
+    font-family: fantasy;
+    font-size: x-large;
+    position: absolute;
+    left: 1500px;
+    color: black;
+}
+
+.Pacotes{
+    font-family: fantasy;
+    font-size: x-large;
+    position: absolute;
+    left: 1300px;
+    color: black;
+
+}
+
+.Carros{
+    font-family: fantasy;
+    font-size: x-large;
+    position: absolute;
+    left: 1100px;
+    color: black;
+
+}
+
+/* Imagens */
+
+.Imagem1{
+    width: 500px;
+    position: absolute;
+    margin-left: 50px;
+}
+
+.Imagem2{
+    position: absolute;
+    width: 500px;
+    height: 330px;
+    left: 670px;
+}
+
+.Imagem3{
+    width: 500px;
+    position: absolute;
+    left: 1270px;
+}
+
+
+.wppinf{
+    position: absolute;
+    width: 50px;
+    left: 500px;
+    top: 950px;
+}
+
+.instainf{
+    position: absolute;
+        width: 50px;
+        left: 400px;
+        top: 950px;
+    }
+
+
+.fbinf{
+    width: 50px;
+    position: absolute;
+    left: 600px;
+    top: 950px;
+}
+
+
+
+
+
+
+
+
+/*texto */
+
+.Memorias{
+    position: absolute;
+    bottom: 230px;
+    left: 140px;
+    font-family: fantasy
+    size: large;
+}
+
+.Mundo{
+    position: absolute;
+    bottom: 230px;
+    left: 760px;
+    font-family: fantasy
+    size: large;
+}
+
+.Paisagem{
+    position: absolute;
+    bottom: 230px;
+    left: 1360px;
+    font-family: fantasy
+    size: large;
+
+}
+
+
+

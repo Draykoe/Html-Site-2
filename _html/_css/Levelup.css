@@ -1,0 +1,267 @@
+
+
+
+/*aqui ficam Links/botoes da barra superior */
+.Celularbotao{
+    position: absolute;
+    left: 1650px;
+    top: 130px;
+}
+
+.Consolebotao{
+    position: absolute;
+    left: 1450px;
+    top: 130px;
+}
+
+.Perifericobotao{
+    position: absolute;
+    left: 1230px;
+    top: 125px;
+}
+
+.Pecabotao{
+    position: absolute;
+    left: 1090px;
+    top: 130px;
+}
+
+.nosconhecasup{
+    position: absolute;
+    top: 40px;
+    left: 470px;
+}
+
+/*botoes de redes superiores */
+.facebooksup{
+    position: absolute;
+    top: 80px;
+    left: 450px;
+
+}
+
+.instasup{
+    position: absolute;
+    top: 80px;
+    left: 580px;
+    
+}
+
+.wppsup{
+    position: absolute;
+    top: 80px;
+    left: 720px;
+
+}
+
+/*botoes de redes inferiores*/
+
+.faleconosco{
+    position: absolute;
+    top: 2560px;
+    left: 470px;
+}
+
+.emailinf{
+    position: absolute;
+    top: 2610px;
+    left: 470px;
+}
+
+.telefoneinf{
+position: absolute;
+top: 2640px;
+left: 470px;
+}
+
+.whatsappinf{
+    position: absolute;
+    top: 2670px;
+    left: 470px;    
+}
+
+.facebookinf{
+    position: absolute;
+    top: 2640px;
+    left: 870px;  
+
+}
+
+.wppinf{
+    position: absolute;
+    top: 2640px;
+    left: 1020px; 
+    
+}
+
+.instainf{
+    position: absolute;
+    top: 2640px;
+    left: 945px;  
+}
+
+
+/*Formas de pagamento e cartoes */
+.formaspagamento{
+    position: absolute;
+    top: 2540px;
+    left: 1300px;  
+}
+
+.cartoes{
+    position: absolute;
+    top: 2570px;
+    left: 1220px;
+    width: 500px;  
+}
+
+
+
+/*logo */
+
+.s2logo{
+    width: 50px;
+    position: absolute;
+    top: 85px;
+    margin-left: 10px;
+}
+
+.Logonome{
+    position: absolute;
+    top: 90px;
+    margin-left: 60px
+    
+}
+
+.tracoinflogo{
+    position: absolute;
+    top: 145px;
+    margin-left: 50px
+}
+
+.flechalogo{
+    position: absolute;
+    top: 25px;
+    margin-left: 255px
+
+}
+
+/*logo inferior */
+.Logonomeinf{
+    position: absolute;
+    top: 2620px;
+    margin-left: 60px
+    
+}
+
+.tracoinflogoinf{
+    position: absolute;
+    top: 2670px;
+    margin-left: 50px
+}
+
+.flechalogoinf{
+    position: absolute;
+    top: 2550px;
+    margin-left: 255px
+
+}
+
+.s2logoinf{
+    width: 50px;
+    position: absolute;
+    top: 2620px;
+    margin-left: 10px;
+}
+
+
+
+/* aqui são as configurações da tela superior, até o slider */
+
+
+.barrasuperioresquerda{
+    ;
+    width: 750px;
+}
+
+.controlebrancosuperior{
+    width: 70px;
+}
+
+body{
+    background-color: #08071E
+    ;
+}
+.barrasuperiordireita{
+    margin-right: 1px;
+    width: 800px;
+}
+.slider{
+    margin-left: 250px;
+}
+
+/*Aqui são as configurações do meio */
+
+.barrameioesquerda{
+    
+    width: 750px;
+}
+
+.controlebrancomeio{
+    width: 70px;
+}
+
+.barrameiodireita{
+    margin-right: 1x;
+    width: 800px;
+}
+
+
+.meiomotivo{
+    margin-left: 300px;
+}
+
+/*Aqui são as configurações do inferior */
+
+.barrainferioresquerda{
+        width: 750px;
+}
+
+.controlebrancoinferior{
+    width: 70px;
+}
+
+.barrainferiordireita{
+    margin-right: 1x;
+    width: 800px;
+}
+
+.imageminferioresquerda{
+    margin-left: 150px;
+    width: 398px;
+    height: 298px;
+        ;
+}
+.imageminferiormeio{
+    margin-left: 150px;
+    width: 398px;
+    height: 298px;
+}
+
+.imageminferiordireita{
+    margin-left: 150px;
+    width: 398px;
+    height: 298px;
+}
+
+.textoinferioresquerda{
+    margin-left: 150px;
+}
+
+.textoinferiormeio{
+    margin-left: 180px;
+}
+
+.textoinferiordireita{
+    margin-left: 185px;
+}
